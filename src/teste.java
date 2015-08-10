@@ -1,4 +1,5 @@
 
-public class teste {
 
+public class teste {
+//teste bug	
 }
