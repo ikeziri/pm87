@@ -1,0 +1,16 @@
+Metricas de codigo ruim
+
+Começar com objetivo alcançavel e depois implantar melhoria 
+
+Lines of Code (LOC) 	=> 100 	=> 1 tela
+Coupling (AC*/EF*)	=> 	=> 
+Lack of Cohesion (LCOM)	=> 	=> 
+Cyclomatic Complex (CC)	=> 16	=> 4
+
+Remover GOD CLASSES
+
+AC = Afferent(recebe) Coupling - numero de classes que dependem da sua 
+AC = Efferent(envia) Coupling - numero de classes a sua classe depende 
+GOD CLASSES = classes que td mundo depende dela
+
+Ferramenta => PMD, eclipseMetrics, CodeSheriff (Open Source Git)
